@@ -62,3 +62,11 @@
 
     git commit -m "<commit message>"
 
+
+## Создание новой ветки
+
+для создания новой ветки введите команду
+
+    git branch <branch name>
+
+
